@@ -41,7 +41,6 @@ public class Main {
         char currentCabinet = 'A';
         int steps = 0;
 
-        // Обрабатываем каждое письмо
         for (String letter : letters) {
             char targetCabinet = letterMap.get(letter);
             steps += Math.abs(targetCabinet - currentCabinet);
