@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+    <task>
+        <title>Погулять с собакой</title>
+        <deadline>17:00, 02.06.2024</deadline>
+    </task>
+    <task>
+        <title>Поиграть с кошкой</title>
+        <deadline>20:00, 02.06.2024</deadline>
+    </task>
+</tasks>
